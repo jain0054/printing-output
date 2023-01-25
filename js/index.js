@@ -35,4 +35,4 @@ let email = "jain0054@algonquinlive.com";
 
 let sentence = "My name is" + ' ' + first_name + ' ' + last_name + ' . ' + ' ' + "You can contact me at" + ' ' + email;
 
-alert(sentence);
+alert (sentence);
